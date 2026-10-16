@@ -21,3 +21,12 @@ To update, repeat step 3: the code always gets the newest version, and your sett
 You can also share the short link **aftv.news/7295614**.
 
 Works on Fire TV devices running Fire OS 6 or later (Fire TV Stick 2nd generation onwards).
+
+## Help and privacy
+
+- Support: https://jamescrowther.github.io/blueyonder/support
+- Privacy policy: https://jamescrowther.github.io/blueyonder/privacy
+
+---
+
+© 2026 Crow & Hawk Technologies. BlueYonder is made by Crow & Hawk Technologies, the trading name of James Crowther, United Kingdom.
