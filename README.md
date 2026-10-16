@@ -12,12 +12,12 @@ channel numbers), films, box sets, favourites and Continue Watching.
 2. Go to **Settings → My Fire TV → Developer Options → Install unknown apps** and turn on **Downloader**.
    If you can't see Developer Options, go to **Settings → My Fire TV → About** and press Select on your
    device name 7 times.
-3. Open Downloader and enter this address:
-
-   `https://github.com/jamescrowther/blueyonder-firetv/releases/latest/download/BlueYonder.apk`
-
+3. Open Downloader, type the code **7295614** and press **Go**.
+   (Or enter the full address:
+   `https://github.com/jamescrowther/blueyonder-firetv/releases/latest/download/BlueYonder.apk`)
 4. Choose **Install**, then **Open**, and sign in with your provider's details.
 
-To update, repeat step 3: the address always gets the newest version, and your settings are kept.
+To update, repeat step 3: the code always gets the newest version, and your settings are kept.
+You can also share the short link **aftv.news/7295614**.
 
 Works on Fire TV devices running Fire OS 6 or later (Fire TV Stick 2nd generation onwards).
